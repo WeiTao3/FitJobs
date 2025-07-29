@@ -4,14 +4,14 @@ A modern job board for fitness and sports jobs, built with React, Vite, Supabase
 
 ## 🚀 Deployed Project
 
-[View the live site on Vercel](https://your-vercel-project-url.vercel.app)
+[View the live site on Vercel](https://fit-jobs.vercel.app/)
 
 ## 🛠️ Local Setup
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/WeiTao3/FitJobs.git
+   cd FitJobs
    ```
 
 2. **Install dependencies:**
