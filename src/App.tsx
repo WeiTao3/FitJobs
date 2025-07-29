@@ -6,7 +6,6 @@ import { PostJobModal, JobDetailModal } from './components/modal';
 import { Job } from './types/Job';
 import { ThemeProvider } from './contexts/ThemeContext';
 import { mockJobs } from './data/jobs';
-import AuthForm from './components/auth/AuthForm';
 
 export interface FilterState {
   search: string;
